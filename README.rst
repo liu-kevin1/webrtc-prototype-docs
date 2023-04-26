@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Documentation for the WebRTC Prototype
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This prototype utilizes PeerJS, which is a wrapper for WebRTC that simplifies peer-to-peer data, video, and audio transfer.
